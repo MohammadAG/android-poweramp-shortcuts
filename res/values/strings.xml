@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Poweramp Shortcuts</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="prev_song">Previous</string>
+    <string name="play_pause">Play/Pause</string>
+    <string name="next_song">Next</string>
+    <string name="play_song">Play</string>
+    <string name="pause_song">Pause</string>
+
+</resources>
